@@ -3,7 +3,7 @@ Given a folder with many images and a picture to be overlaid, create a Photo Mos
 
 ## Demo
 **Input - Select Folder with Images**
-![Images](/images/Images.JPG)
+![Images](/images/Images.jpg)
 
 **Input CANVAS**
 ![Input Canvas](/images/input_canvas.jpg)
