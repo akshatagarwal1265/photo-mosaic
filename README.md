@@ -2,11 +2,11 @@
 Given a folder with many images and a picture to be overlaid, create a Photo Mosaic
 
 ## Demo
-**Input - Select Folder with Images**
-![Images](/images/Images.jpg)
+**Input - Select Folder with IMAGES**
+![Images](/images/Images.JPG)
 
-**Input CANVAS**
-![Input Canvas](/images/input_canvas.jpg)
+**Input OVERLAY**
+![Input Overlay](/images/Overlay.jpg)
 
 **Stego-image (CRYPTED)** -> The above DATA has been hidden in the above CANVAS
 ![Crypted](/images/crypted.jpg)
