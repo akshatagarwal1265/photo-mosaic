@@ -1,20 +1,9 @@
 # photo-mosaic
 Given a folder with many images and a picture to be overlaid, create a Photo Mosaic
 
-## HidePicInPic
-* The secret-image (or DATA) is hidden in the cover-image (or CANVAS)
-* The DATA's resolution should be lesser-than/equal-to the CANVAS' resolution, Else Terminate
-* DATA's first 4 MSBs are embedded in CANVAS' last 4 LSBs
-* Therefore, both image's 50% bits are preserved
-* Binary operations used to enhance speed
-
-## ReadPicInPic
-* The stego-image (or CRYPTED) is used to recover the DATA and the CANVAS
-* Binary operations and built-in functions instead of loops - used to enhance speed
-
 ## Demo
-**Input DATA**
-![Input Data](/images/input_data.jpg)
+**Input - Select Folder with Images**
+![Images](/images/Images.JPG)
 
 **Input CANVAS**
 ![Input Canvas](/images/input_canvas.jpg)
