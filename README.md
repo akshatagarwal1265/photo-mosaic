@@ -12,7 +12,7 @@ Given a folder with many images and a picture to be overlaid, create a Photo Mos
 * Secondly, the chosen 'Mosaic' and 'Mosaic_Bordered' will be saved in the Destination Folder
 
 ## Demo
-* **Input - Select Folder with IMAGES**
+* **Input - Select Folder with IMAGES** -> The images used in this demo are provided in a rar file in the /images folder
 ![Input Images](/images/Input_Images.JPG)
 
 * **Input - OVERLAY**
@@ -29,11 +29,11 @@ Given a folder with many images and a picture to be overlaid, create a Photo Mos
 * **Intermediate - Matlab Figure 3** -> Shows matlab's builtin fancy merge effects
 ![Matlab Figure 3](/images/Intermediate_fig3.JPG)
 
-* **Output - Mosaic**
-![Mosaic](/images/Output_Mosaic.tiff)
+* **Output - Mosaic** -> The actual output of file type '.tiff' is stored in the /images folder
+![Mosaic](/images/Output_Mosaic.jpg)
 
-* **Output - Mosaic Bordered**
-![Mosaic Bordered](/images/Output_Mosaic_Bordered.tiff)
+* **Output - Mosaic Bordered** -> The actual output of file type '.tiff' is stored in the /images folder
+![Mosaic Bordered](/images/Output_Mosaic_Bordered.jpg)
 
 ## Acknowledgement
 * <span>Photo by <a href="https://unsplash.com/@ben_scott_photography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ben Scott</a> on <a href="/s/photos/face?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
