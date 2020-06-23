@@ -1,0 +1,4 @@
+Minor Changes (might have Major Improvements)
+
+@ Reduce brightness of "overlay" because very bright/white overlay is causing the mini pics on the background to look overexposed. (Maybe try normalizing histogram as well (of the "overlay"), so that the color space of "overlay" is more spread out)
+@ Increase sharpness of the "overlay" so that features are more evidently visible in the final mosaic.
