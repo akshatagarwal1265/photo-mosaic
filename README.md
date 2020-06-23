@@ -29,10 +29,10 @@ Given a folder with many images and a picture to be overlaid, create a Photo Mos
 * **Intermediate - Matlab Figure 3** -> Shows matlab's builtin fancy merge effects
 ![Matlab Figure 3](/images/Intermediate_fig3.JPG)
 
-* **Output - Mosaic** -> The actual output of file type '.tiff' is stored in the /images folder
+* **Output - Mosaic** -> The actual generated output of file type '.tiff' is stored in the /images folder
 ![Mosaic](/images/Output_Mosaic.jpg)
 
-* **Output - Mosaic Bordered** -> The actual output of file type '.tiff' is stored in the /images folder
+* **Output - Mosaic Bordered** -> The actual generated output of file type '.tiff' is stored in the /images folder
 ![Mosaic Bordered](/images/Output_Mosaic_Bordered.jpg)
 
 ## Acknowledgement
