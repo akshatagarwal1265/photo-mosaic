@@ -36,4 +36,4 @@ Given a folder with many images and a picture to be overlaid, create a Photo Mos
 ![Mosaic Bordered](/images/Output_Mosaic_Bordered.jpg)
 
 ## Acknowledgement
-* <span>Photo by <a href="https://unsplash.com/@ben_scott_photography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ben Scott</a> on <a href="/s/photos/face?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+* Input Overlay - <span>Photo by <a href="https://unsplash.com/@ben_scott_photography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ben Scott</a> on <a href="/s/photos/face?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
